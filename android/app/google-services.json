@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966980377955",
+    "project_id": "shopecommercepayment",
+    "storage_bucket": "shopecommercepayment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966980377955:android:f7cb5504ac4ea3617a8756",
+        "android_client_info": {
+          "package_name": "com.example.payment_stripe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DlqKSITDeqMKqRnnFZ_KX5RcQGqzqXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

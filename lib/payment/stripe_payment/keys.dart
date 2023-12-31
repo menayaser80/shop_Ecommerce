@@ -1,0 +1,5 @@
+abstract class ApiKeys
+{
+  static const String pusblishableKey="pk_test_51OM6NgFHXvU3pUYUwSeiiD0Wq4C61DM7lLTxANWWMbKLGXdOxBrldsKNJLG3jYf4Kuj4NKHJitQ5I88wPfREK0DW00tQk4a4UT";
+  static const String secretKey="sk_test_51OM6NgFHXvU3pUYU3lqYi5suDaCSKEgppYGv0uDbVU0nDVRp5OynrJxD4E7RfV1Yt6ITDHeNI2i4I8qXtMbZhq4j00paO0XZON";
+}
